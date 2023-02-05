@@ -2,10 +2,11 @@
   "name": "cosmic-pop-dark",
   "displayName": "Cosmic Pop Dark",
   "description": "Simple dark theme following cosmic dark color pallete with custom syntax highlighting",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "icon": "icon.png",
   "publisher": "Feiron",
   "preview": true,
+  "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -20,5 +21,9 @@
         "path": "./themes/Cosmic Pop Dark Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelrogowski/cosmic-pop-dark"
   }
 }
