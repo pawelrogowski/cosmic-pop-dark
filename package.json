@@ -1,0 +1,24 @@
+{
+  "name": "cosmic-pop-dark",
+  "displayName": "Cosmic Pop Dark",
+  "description": "Simple dark theme following cosmic dark color pallete with custom syntax highlighting",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "Feiron",
+  "preview": true,
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Pop Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic Pop Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
