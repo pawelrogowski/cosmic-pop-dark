@@ -1,3 +1,5 @@
+# H1
+
 Simple Visual Studio Code following pop! OS cosmic color pallete
 
 ![Preview](https://github.com/pawelrogowski/cosmic-pop-dark/raw/HEAD/image.png)
@@ -7,6 +9,8 @@ Simple Visual Studio Code following pop! OS cosmic color pallete
 ![Preview](https://github.com/pawelrogowski/cosmic-pop-dark/raw/HEAD/OhMyPosh.png)
 
 **Fonts Used:**
--Editor: Hack - https://github.com/ryanoasis/nerd-fonts
--Terminal: Anonymice Nerd Font Mono - https://github.com/ryanoasis/nerd-fonts
+
+- Editor: Hack - https://github.com/ryanoasis/nerd-fonts
+- Terminal: Anonymice Nerd Font Mono - https://github.com/ryanoasis/nerd-fonts
+
 **Enjoy!**
