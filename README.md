@@ -1,6 +1,6 @@
-# Cosmic Pop Dark Theme
+## Cosmic Pop Dark Theme
 
-## Simple Visual Studio Code following pop! OS cosmic color pallete
+### Simple Visual Studio Code following pop! OS cosmic color pallete
 
 ---
 
