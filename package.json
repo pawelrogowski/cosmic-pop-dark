@@ -2,7 +2,7 @@
   "name": "cosmic-pop-dark",
   "displayName": "Cosmic Pop Dark",
   "description": "Simple dark theme following cosmic dark color pallete with custom syntax highlighting",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "icon": "icon.png",
   "publisher": "Feiron",
   "preview": true,
