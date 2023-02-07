@@ -1,12 +1,7 @@
 # Change Log
 
-All notable changes to the "cosmic-pop-dark" extension will be documented in this file.
+0.1.0
+-changed peek view color to be consistent with the rest of the theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
-
-  0.1.0
-  -changed peek view color to be consistent with the rest of the theme
+0.1.1
+-added font & terminal info to extension package
